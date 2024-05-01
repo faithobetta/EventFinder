@@ -54,6 +54,9 @@ body,html {
     height: fit-content;
 }
 
+.categories-page-details{
+    /* margin: 100px; */
+}
 .categories-page-details img{
     height: 280px;
     width: 300px;
@@ -63,7 +66,7 @@ body,html {
 .categories-page-details h3{
     padding: 10px;
     text-align: center;
-}
+} 
 
 @media (max-width: 768px) {
     .banner-text {
@@ -80,7 +83,7 @@ body,html {
     }
 }
 
-@media (max-width: 480px) {
+/* @media (max-width: 480px) {
     body, html {
         padding-top: 50px;
     }
@@ -96,4 +99,4 @@ body,html {
     .categories-container h2 {
         font-size: 1.25rem;
     }
-}
+} */

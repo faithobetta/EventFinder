@@ -13,10 +13,10 @@ function Footer() {
         <div className="footer-links">
           <div className="footer-links-div">
             <h4>Useful Links</h4>
-            <Link to="/">Home</Link>
-            <Link to="/events">Events</Link>
-            <Link to="/categories">Categories</Link>
-            <Link to="/about">About</Link>
+            <Link className="footer-a" to="/">Home</Link>
+            <Link className="footer-a" to="/events">Events</Link>
+            <Link className="footer-a" to="/categories">Categories</Link>
+            <Link className="footer-a" to="/about">About</Link>
                             
           </div>
 
@@ -42,7 +42,7 @@ function Footer() {
             <p>©2024 EventFinder. All right reserved.</p>
           </div>
           <div className="privacy">
-            <a href="/privacy"><div><p>Privacy</p></div></a>
+            <a className="privacy-a" href="/privacy"><div><p>Privacy</p></div></a>
           </div>
         </div>
 

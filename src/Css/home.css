@@ -51,19 +51,24 @@ body,html {
     width: 700px;
     height: 40px;
     font-size: 1rem;
-    /* font-weight: 700; */
+    border-radius: 2px;
 
 }
 .search-icon{
     width: 40px;
     height: 40px;
     padding-top:5px;
-    margin-left: -40px;
+    margin-top: -8px;
+    margin-left: -20px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    color: var(--mainColor);
     background-color: var(--secondaryColor);
 }
 
 .search-text{
     color: var(--mainColor);
+
 }
 /* categories of events starts here  */
 .categories h2{
@@ -253,7 +258,7 @@ section{
     }
 
     .search-input, .search-icon-div {
-        width: 80%;
+        width: 100%;
     }
 
     .categories-event, .events {

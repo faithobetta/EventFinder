@@ -9,11 +9,12 @@ function Category() {
 
 
   return (
-    <div>
+    <div className="category-home">
         <EventList url={eventsUrl} />
-        <EventList url={eventsUrl} />
+        {/* <EventList url={eventsUrl} /> */}
     </div>
   );
+
 }
 
 export default Category;
