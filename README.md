@@ -1,3 +1,4 @@
+        Eventfinder live url: https://event-finder-zeta.vercel.app/ hosted by Vercel
         ABOUT EVENTFINDER
 Eventfinder is a website where you can find out about different events happening near you. These events could be concerts, sports games, or festivals. You can search for events based on your entertainment interested and when they're happening.  Eventfinder also lets you buy tickets. It's a handy tool for discovering fun things to do.
 
@@ -19,7 +20,7 @@ Eventfinder utilized Vercel as its hosting platform to ensure a fast, reliable, 
 
         Disclaimer
 This project integrates both my original code and code/libraries sourced from different places. I acknowledge that I may not own all the code utilized. Whenever feasible, I provide credits and attribution to the respective sources.
-    References
+        References
 Youtube https://youtube.com
 W3 Schools https://w3schools.com
 Github https://github.com/
