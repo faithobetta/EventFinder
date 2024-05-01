@@ -2,6 +2,12 @@
         ABOUT EVENTFINDER
 Eventfinder is a website where you can find out about different events happening near you. These events could be concerts, sports games, or festivals. You can search for events based on your entertainment interested and when they're happening.  Eventfinder also lets you buy tickets. It's a handy tool for discovering fun things to do.
 
+        Programming language and framework used
+React
+JavaScript
+HTML/CSS
+Api 
+Axios
         DETAILED WEBSITE DESCRIPTION AND FEATURES
 Home Page
 Categories
